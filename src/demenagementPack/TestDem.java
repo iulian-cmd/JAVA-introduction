@@ -6,6 +6,7 @@ public class TestDem{
 	 // on crée une "instance"
 	Demenagement dem = new Demenagement("Entreprisse bretonne",9);
 	 // on appelle la méthode d’instance "auTravail()
-	dem.auTravail();
+	dem.auTravail(34);
+	 	  
 	}
 	}
