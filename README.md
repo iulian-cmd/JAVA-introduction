@@ -1,4 +1,6 @@
+```
 ## JAVA-introduction ##
+
 Output example:
 
 Bienvenus
@@ -8,7 +10,7 @@ Veuillez saisir le nombre des cartons à transporter:
 53
 Entreprisse bretonne possède un camion de capacité: 12
 Il y a 53 de cartons a transporter.
-#Début du déménagement#
+Début du déménagement
 __________________________________________________________________
  N°Voyages 	 | N°Cartons 	 | Emport 	 | CapacitéCamion
 __________________________________________________________________
@@ -18,4 +20,4 @@ __________________________________________________________________
  4	 	 | 5	 	 | 12	 	 | 12
  5	 	 | 0	 	 | 5	 	 | 12
 __________________________________________________________________
-#Fin du déménagement#
+Fin du déménagement
