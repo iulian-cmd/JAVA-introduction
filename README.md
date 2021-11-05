@@ -8,7 +8,7 @@ Veuillez saisir la capacité du camion:
 12
 Veuillez saisir le nombre des cartons à transporter: 
 53
-Entreprisse bretonne possède un camion de capacité: 12
+Entreprise bretonne possède un camion de capacité: 12
 Il y a 53 de cartons a transporter.
 Début du déménagement
 __________________________________________________________________
