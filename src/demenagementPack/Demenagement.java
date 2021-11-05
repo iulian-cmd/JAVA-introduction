@@ -15,6 +15,7 @@ public class Demenagement {
 		int nbVoyage = 0;
 		int emport = capCamion;
 		System.out.println(nom + " possède un camion de capacité: " + capCamion);
+		System.out.println("Il y a " + nbCartons + " de cartons a transporter.");
 		System.out.println("Début du déménagement");
 		System.out.println("__________________________________________________________________");
 		System.out.println(" N°Voyages \t | N°Cartons \t | Emport \t | CapacitéCamion");
