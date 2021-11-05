@@ -1,12 +1,12 @@
 package demenagementPack;
 
-public class TestDem{
-	 public static void main(String[] args) {
-	 System.out.println("Bienvenus");
-	 // on crée une "instance"
-	Demenagement dem = new Demenagement("Entreprisse bretonne",9);
-	 // on appelle la méthode d’instance "auTravail()
-	dem.auTravail(34);
-	 	  
+public class TestDem {
+	public static void main(String[] args) {
+		System.out.println("Bienvenus");
+		// on crée une "instance"
+		Demenagement dem = new Demenagement("Entreprisse bretonne", 9);
+		// on appelle la méthode d’instance "auTravail()
+		dem.auTravail(34);
+
 	}
-	}
+}
