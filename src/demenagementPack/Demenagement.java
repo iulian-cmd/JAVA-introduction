@@ -16,7 +16,7 @@ public class Demenagement {
 		System.out.println(nom + " possède un camion de capacité: " + capCamion);
 		System.out.println("Début du déménagement");
 		System.out.println("__________________________________________________________________");
-		System.out.println("N°Voyages \t | N°Cartons \t | Emport \t | CapacitéCamion");
+		System.out.println(" N°Voyages \t | N°Cartons \t | Emport \t | CapacitéCamion");
 		System.out.println("__________________________________________________________________");
 		
 		// la boucle qui parcours les données
@@ -28,7 +28,7 @@ public class Demenagement {
 			} else
 				emport = nbCartons;
 			nbCartons = nbCartons - emport;
-			System.out.println(nbVoyage + "\t \t | " + nbCartons + "\t \t | " + emport + "\t \t | " + capCamion);
+			System.out.println(" " + nbVoyage + "\t \t | " + nbCartons + "\t \t | " + emport + "\t \t | " + capCamion);
 		}
 		System.out.println("__________________________________________________________________");
 		System.out.println("Fin du déménagement");
