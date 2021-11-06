@@ -20,4 +20,8 @@ public class TestDem {
 		}
 
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 8ce9afcc24a73f903501595d8585ff056dd65e52
